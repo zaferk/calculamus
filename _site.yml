@@ -1,0 +1,9 @@
+name: "calculamus"
+output_dir: "."
+navbar:
+  title: "Calculamus"
+  left:
+    - text: "Anasayfa"
+      href: index.html
+    - text: "Hakkında"
+      href: about.html
